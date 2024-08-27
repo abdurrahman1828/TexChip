@@ -16,7 +16,7 @@ was conducted on two datasets using k-fold cross-validation. Therefore, train me
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](LICENSE).
 
 
 ## Contact
